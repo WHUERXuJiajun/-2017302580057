@@ -1,0 +1,9 @@
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\bin\Debug\WFAproduct.exe
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\bin\Debug\WFAproduct.pdb
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\obj\Debug\WFAproduct.csprojResolveAssemblyReference.cache
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\obj\Debug\WFAproduct.Form1.resources
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\obj\Debug\WFAproduct.Properties.Resources.resources
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\obj\Debug\WFAproduct.csproj.GenerateResource.Cache
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\obj\Debug\WFAproduct.csproj.CoreCompileInputs.cache
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\obj\Debug\WFAproduct.exe
+C:\Users\徐佳俊\source\repos\Homework1\WFAproduct\obj\Debug\WFAproduct.pdb

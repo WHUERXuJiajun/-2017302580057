@@ -1,0 +1,6 @@
+c:\users\徐佳俊\source\repos\Homework1\ConsoleSum\bin\Debug\ConsoleSum.exe
+c:\users\徐佳俊\source\repos\Homework1\ConsoleSum\bin\Debug\ConsoleSum.pdb
+c:\users\徐佳俊\source\repos\Homework1\ConsoleSum\obj\Debug\ConsoleSum.csprojResolveAssemblyReference.cache
+c:\users\徐佳俊\source\repos\Homework1\ConsoleSum\obj\Debug\ConsoleSum.csproj.CoreCompileInputs.cache
+c:\users\徐佳俊\source\repos\Homework1\ConsoleSum\obj\Debug\ConsoleSum.exe
+c:\users\徐佳俊\source\repos\Homework1\ConsoleSum\obj\Debug\ConsoleSum.pdb
