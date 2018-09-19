@@ -1,0 +1,5 @@
+C:\Users\徐佳俊\source\repos\program1\program3\bin\Debug\program3.exe
+C:\Users\徐佳俊\source\repos\program1\program3\bin\Debug\program3.pdb
+C:\Users\徐佳俊\source\repos\program1\program3\obj\Debug\program3.csproj.CoreCompileInputs.cache
+C:\Users\徐佳俊\source\repos\program1\program3\obj\Debug\program3.exe
+C:\Users\徐佳俊\source\repos\program1\program3\obj\Debug\program3.pdb
