@@ -1,0 +1,6 @@
+c:\users\徐佳俊\source\repos\HomeWork3\homework3\bin\Debug\homework3.exe
+c:\users\徐佳俊\source\repos\HomeWork3\homework3\bin\Debug\homework3.pdb
+c:\users\徐佳俊\source\repos\HomeWork3\homework3\obj\Debug\homework3.csprojResolveAssemblyReference.cache
+c:\users\徐佳俊\source\repos\HomeWork3\homework3\obj\Debug\homework3.csproj.CoreCompileInputs.cache
+c:\users\徐佳俊\source\repos\HomeWork3\homework3\obj\Debug\homework3.exe
+c:\users\徐佳俊\source\repos\HomeWork3\homework3\obj\Debug\homework3.pdb
